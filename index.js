@@ -37,7 +37,7 @@ const weatherapp= async(city)=>{
     {
         img_src.src="images/rain.png";
     }
-    console.log(img_src.src +" kk");
+    
 };
 
 searchbtn.addEventListener("click", ()=>{
